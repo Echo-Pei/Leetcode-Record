@@ -7,3 +7,5 @@ class Solution:
         ##这里记得[-1]就是最后一个
         else:
             return len(s[-1])
+            \
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/308f5a9b-3e54-4bcc-a4a3-be804ef123ab/view?access_token=58d78a0c7223958012f1db5c761d6893c0b0a8dc7b505960433cff17ea17c43d
