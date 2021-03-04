@@ -1,0 +1,9 @@
+class Solution:
+    def lengthOfLastWord(self, s: str) -> int:
+  ##这里split记得加括号
+        s=s.split()
+        if not s:
+            return "0"
+        ##这里记得[-1]就是最后一个
+        else:
+            return len(s[-1])
